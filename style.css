@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+#quote-container {
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+#generate-button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
